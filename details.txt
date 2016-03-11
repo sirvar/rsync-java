@@ -1,0 +1,5 @@
+
+root
+/Users/katyalrikin/Developer/sony-exclusive/
+/www/sony-exclusive/main
+1
